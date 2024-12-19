@@ -1,0 +1,13 @@
+{
+  "name": "adm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "adm-zip": "0.5.14"
+  },
+  "devDependencies": {
+    "@types/adm-zip": "^0.5.7"
+  },
+  "private": true
+}
